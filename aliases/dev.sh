@@ -35,7 +35,13 @@ alias phpserve='php -S localhost:8000'
 alias code='code .'
 alias subl='subl .'
 alias vim='vim'
-alias v='vim'
+alias v='nvim'
+
+# Claude CLI
+alias yc='claude'
+alias ycc='claude code'
+alias ycs='claude chat'
+alias yce='claude code --edit'
 
 # File searching
 alias findfile='find . -name'
