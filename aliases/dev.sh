@@ -38,7 +38,7 @@ alias vim='vim'
 alias v='nvim'
 
 # Claude CLI
-alias yc='claude'
+alias yc='claude --dangerously-skip-permissions'
 alias ycc='claude code'
 alias ycs='claude chat'
 alias yce='claude code --edit'
